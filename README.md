@@ -8,10 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 ## Load data into R
 
-```{r import}
-setwd('/Users/dayoawe1/Desktop/School Work/new/SPRING 2023/Advanced Data Analysis/Assignment/HW 1')
-```
-
 ## Read the data into R in both txt and csv format
 
 ```{r text}
